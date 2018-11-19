@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">msgTest</string>
+    <string name="mylib_public_string">我的世界，你好</string>
+</resources>
